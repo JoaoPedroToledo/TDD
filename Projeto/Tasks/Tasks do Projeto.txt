@@ -1,0 +1,11 @@
+Pilha vazia
+Adicionar elemento
+Adicionar 2 elementos
+Desempilhar
+Desempilhar de pilha vazia
+Empilhar de pilha cheia
+Verificar expressão
+Testar soma
+Testar subtração
+Testar multiplicação
+Testar divisão
